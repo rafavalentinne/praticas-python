@@ -9,3 +9,8 @@ for letra in frase:
         quantidade += 1
 
 print(f"Ha {quantidade} vogais na Frase enviada")
+
+
+"""
+CONTRIBUICOES ABAIXO
+"""

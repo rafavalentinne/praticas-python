@@ -8,3 +8,8 @@ def fatorial(n):
 numero = int(input("Digite um numero: "))
 
 print(fatorial(numero))
+
+
+"""
+CONTRIBUICOES ABAIXO
+"""

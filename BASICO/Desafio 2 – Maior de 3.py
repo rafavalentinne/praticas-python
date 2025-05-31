@@ -7,3 +7,8 @@ numero3 = int(input('Digite o terceiro numero: '))
 maior = max(numero1, numero2, numero3)
 
 print(f"O Maior Numero é: {maior}")
+
+
+"""
+CONTRIBUICOES ABAIXO
+"""

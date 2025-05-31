@@ -21,3 +21,7 @@ palavra = input('Digite uma palavra: ')
 
 print(palindromo(palavra))
 
+
+"""
+CONTRIBUICOES ABAIXO
+"""

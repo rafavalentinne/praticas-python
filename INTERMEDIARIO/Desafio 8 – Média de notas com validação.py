@@ -18,3 +18,9 @@ def calcular_media():
 
 if __name__ == "__main__":
     calcular_media()
+
+
+
+"""
+CONTRIBUICOES ABAIXO
+"""

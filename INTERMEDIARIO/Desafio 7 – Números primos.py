@@ -10,3 +10,7 @@ def eh_primo(n):
 numero = int(input("Digite um numero: "))
 
 print(eh_primo(numero))
+
+"""
+CONTRIBUICOES ABAIXO
+"""

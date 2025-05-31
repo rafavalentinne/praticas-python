@@ -15,3 +15,8 @@ if numero_escolhido == numero_aleatorio:
 
 else:
     print("ERROU!!!")
+
+
+"""
+CONTRIBUICOES ABAIXO
+"""
